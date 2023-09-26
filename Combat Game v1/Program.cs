@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-int Health1 = 100;
+﻿int Health1 = 100;
 int Health2 = 100;
 
 //randomizer
